@@ -1,5 +1,6 @@
 # Churn-Analysis
-### ![image](https://github.com/user-attachments/assets/6494b375-19a5-4c4e-a3a8-4e5649b3c24f)
+![Could Snowflake Be a Millionaire-Maker Stock_ _ The Motley Fool](https://github.com/user-attachments/assets/2ddbd7b3-4163-4ff3-b57a-1cb42a8c81d2)
+
 This is the official repository for the Churn Dataset.
 # Business Problem
 The financial services industry's ecosystem is dynamic and multidimensional, characterized by a complex interplay of factors that influence consumer behaviors. In this complex environment, the ability to retain customers is more than a strategic advantage; it is a requirement for long-term growth and sustainability. The inherent challenges of customer attrition for financial institutions include substantial revenue loss and the erosion of brand loyalty. As a result, a Canadian bank facing challenges in retaining its customer base reached out to Datafied Technologies. The bank is experiencing customer churn, impacting overall customer satisfaction and revenue, as well as they lack insights into the factors influencing customer decisions to leave or stay with the bank. There is a need to identify and address factors contributing to customer churn proactively and to do that, they provided a churn database containing information on 10,000 bank customers over six months. 
