@@ -1,5 +1,5 @@
 # Churn-Analysis
-![Could Snowflake Be a Millionaire-Maker Stock_ _ The Motley Fool](https://github.com/user-attachments/assets/2ddbd7b3-4163-4ff3-b57a-1cb42a8c81d2)
+![WhatsApp Image 2024-12-28 at 09 08 39](https://github.com/user-attachments/assets/1c7b8b9f-aad8-460a-868d-9a9cc134fbcb)
 
 This is the official repository for the Churn Dataset.
 # Business Problem
